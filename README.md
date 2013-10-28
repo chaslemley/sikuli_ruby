@@ -1,3 +1,8 @@
+Note
+====
+
+This project is no longer maintained. I recommend using this project instead: https://github.com/andreanastacio/rukuli
+
 Sikuli Ruby
 ===========
 
