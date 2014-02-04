@@ -19,6 +19,9 @@ module Sikuli
   # Alt Key
   KEY_ALT   = KeyModifier::ALT
 
+  # ESC Key
+  KEY_ESC = Key::ESC
+
   # Backspace Key
   KEY_BACKSPACE = Key::BACKSPACE
 
